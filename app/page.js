@@ -8,11 +8,10 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center">
             <h1 className="text-4xl md:text-6xl font-bold mb-6">
-              Transform Customer Communication with <span className="text-blue-200">AI</span>
+              Panhandle Pressure Equipment and Trailers LLC
             </h1>
             <p className="text-xl md:text-2xl mb-8 text-blue-100 max-w-3xl mx-auto">
-              Contacted AI revolutionizes how businesses interact with customers. 
-              Automate responses, enhance engagement, and scale your support effortlessly.
+              Panhandle Pressure Equipment and Trailers LLC
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link 
@@ -37,7 +36,7 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
             <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
-              Why Choose Contacted AI?
+              Why Choose Panhandle Pressure Equipment and Trailers LLC?
             </h2>
             <p className="text-xl text-gray-600 max-w-2xl mx-auto">
               Our AI-powered platform delivers exceptional customer experiences while reducing operational costs.
@@ -157,7 +156,7 @@ export default function Home() {
                 </div>
               </div>
               <p className="text-gray-600 mb-4">
-                "Contacted AI completely transformed our customer support. We've seen a 70% reduction in response times and our team can now focus on strategic initiatives."
+                "Panhandle Pressure Equipment and Trailers LLC completely transformed our customer support. We've seen a 70% reduction in response times and our team can now focus on strategic initiatives."
               </p>
               <div className="font-semibold text-gray-900">Sarah Johnson</div>
               <div className="text-sm text-gray-500">CEO, TechStart Inc.</div>
@@ -199,7 +198,7 @@ export default function Home() {
             Ready to Transform Your Customer Communication?
           </h2>
           <p className="text-xl text-blue-100 mb-8 max-w-2xl mx-auto">
-            Join thousands of businesses already using Contacted AI to deliver exceptional customer experiences.
+            Join thousands of businesses already using Panhandle Pressure Equipment and Trailers LLC to deliver exceptional customer experiences.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link 

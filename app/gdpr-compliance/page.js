@@ -12,7 +12,7 @@ export default function GDPRCompliance() {
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
             </svg>
             <p className="text-green-800 font-semibold">
-              Contacted AI is fully compliant with the General Data Protection Regulation (GDPR)
+              Panhandle Pressure Equipment and Trailers LLC is fully compliant with the General Data Protection Regulation (GDPR)
             </p>
           </div>
         </div>
@@ -20,7 +20,7 @@ export default function GDPRCompliance() {
         <div className="prose prose-lg max-w-none">
           <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">Our GDPR Commitment</h2>
           <p className="text-gray-600 mb-6">
-            At Scavenger AI LLC (doing business as Contacted AI), we are committed to protecting your privacy and 
+            At Panhandle Pressure Equipment and Trailers LLC, we are committed to protecting your privacy and 
             ensuring full compliance with the European Union's General Data Protection Regulation (GDPR). We believe 
             in transparent data practices and giving you full control over your personal information.
           </p>
@@ -124,8 +124,8 @@ export default function GDPRCompliance() {
               To exercise any of your GDPR rights, please contact us using any of the following methods:
             </p>
             <ul className="space-y-2 text-gray-700">
-              <li><strong>Email:</strong> <Link href="mailto:privacy@contactedai.com" className="text-blue-600 hover:underline">privacy@contactedai.com</Link></li>
-              <li><strong>Phone:</strong> 1-800-CONTACT</li>
+              <li><strong>Email:</strong> <Link href="mailto:washpanhandle@gmail.com" className="text-blue-600 hover:underline">washpanhandle@gmail.com</Link></li>
+              <li><strong>Phone:</strong> 850 363 4613</li>
               <li><strong>Online Form:</strong> <Link href="/contact-us" className="text-blue-600 hover:underline">Submit a privacy request</Link></li>
             </ul>
             <p className="text-gray-600 mt-4 text-sm">
@@ -208,8 +208,8 @@ export default function GDPRCompliance() {
               For any questions about our GDPR compliance or data protection practices, contact our Data Protection Officer:
             </p>
             <p className="text-gray-700">
-              <strong>Email:</strong> <Link href="mailto:dpo@contactedai.com" className="text-blue-600 hover:underline">dpo@contactedai.com</Link><br/>
-              <strong>Phone:</strong> 1-800-CONTACT<br/>
+              <strong>Email:</strong> <Link href="mailto:washpanhandle@gmail.com" className="text-blue-600 hover:underline">washpanhandle@gmail.com</Link><br/>
+              <strong>Phone:</strong> 850 363 4613<br/>
               <strong>Address:</strong> [DPO Address]
             </p>
           </div>

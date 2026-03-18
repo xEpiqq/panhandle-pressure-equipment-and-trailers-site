@@ -7,12 +7,12 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           {/* Company Info */}
           <div className="col-span-1 md:col-span-2">
-            <h3 className="text-2xl font-bold text-blue-400 mb-4">Contacted AI</h3>
+            <h3 className="text-2xl font-bold text-blue-400 mb-4">Panhandle Pressure Equipment and Trailers LLC</h3>
             <p className="text-gray-300 mb-4 max-w-md">
-              Scavenger AI LLC doing business as Contacted AI - Revolutionizing customer communication with AI-powered solutions.
+              Panhandle Pressure Equipment and Trailers LLC
             </p>
             <p className="text-sm text-gray-400">
-              © {new Date().getFullYear()} Scavenger AI LLC. All rights reserved.
+              © {new Date().getFullYear()} Panhandle Pressure Equipment and Trailers LLC. All rights reserved.
             </p>
           </div>
 

@@ -363,7 +363,7 @@ export default function ContactUs() {
                     <Link href="/privacy-policy" className="text-blue-600 hover:underline">
                       Privacy Policy
                     </Link>{' '}
-                    of Scavenger AI LLC (doing business as Contacted AI).
+                    of Panhandle Pressure Equipment and Trailers LLC.
                   </label>
                 </div>
                 {errors.agreeToTerms && (
@@ -411,8 +411,8 @@ export default function ContactUs() {
               </div>
               <h3 className="text-xl font-semibold text-gray-900 mb-2">Email Support</h3>
               <p className="text-gray-600 mb-4">Get help from our support team</p>
-              <Link href="mailto:support@contactedai.com" className="text-blue-600 hover:underline">
-                support@contactedai.com
+              <Link href="mailto:washpanhandle@gmail.com" className="text-blue-600 hover:underline">
+                washpanhandle@gmail.com
               </Link>
             </div>
 
@@ -424,7 +424,7 @@ export default function ContactUs() {
               </div>
               <h3 className="text-xl font-semibold text-gray-900 mb-2">Phone Support</h3>
               <p className="text-gray-600 mb-4">Toll-free number for verified customers</p>
-              <p className="text-blue-600 font-semibold">1-800-CONTACT</p>
+              <p className="text-blue-600 font-semibold">850 363 4613</p>
             </div>
 
             <div className="text-center p-6 bg-white rounded-lg shadow-lg">

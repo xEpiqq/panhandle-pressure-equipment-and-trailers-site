@@ -14,14 +14,14 @@ export default function TermsOfService() {
         <div className="prose prose-lg max-w-none">
           <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">1. Acceptance of Terms</h2>
           <p className="text-gray-600 mb-6">
-            By accessing or using the Contacted AI service provided by Scavenger AI LLC ("Company," "we," "us," or "our"), 
+            By accessing or using the Panhandle Pressure Equipment and Trailers LLC service provided by Panhandle Pressure Equipment and Trailers LLC ("Company," "we," "us," or "our"), 
             you ("User," "you," or "your") agree to be bound by these Terms and Conditions ("Terms"). If you do not agree to 
             these Terms, please do not use our service.
           </p>
 
           <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">2. Description of Service</h2>
           <p className="text-gray-600 mb-6">
-            Contacted AI is an AI-powered customer communication platform that automates responses, enhances customer 
+            Panhandle Pressure Equipment and Trailers LLC is an AI-powered customer communication platform that automates responses, enhances customer 
             engagement, and provides intelligent customer support solutions. Our service includes but is not limited to:
           </p>
           <ul className="list-disc pl-6 text-gray-600 space-y-2 mb-6">
@@ -79,8 +79,8 @@ export default function TermsOfService() {
           <div className="mb-6">
             <h3 className="text-xl font-semibold text-gray-900 mb-3">Our Rights</h3>
             <p className="text-gray-600 mb-4">
-              Contacted AI and all related trademarks, service marks, graphics, and logos are the property of 
-              Scavenger AI LLC. You may not use our intellectual property without prior written consent.
+              Panhandle Pressure Equipment and Trailers LLC and all related trademarks, service marks, graphics, and logos are the property of 
+              Panhandle Pressure Equipment and Trailers LLC. You may not use our intellectual property without prior written consent.
             </p>
 
             <h3 className="text-xl font-semibold text-gray-900 mb-3">Your Content</h3>
@@ -115,7 +115,7 @@ export default function TermsOfService() {
 
           <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">9. Limitation of Liability</h2>
           <p className="text-gray-600 mb-6">
-            TO THE MAXIMUM EXTENT PERMITTED BY LAW, SCAVENGER AI LLC SHALL NOT BE LIABLE FOR ANY INDIRECT, 
+            TO THE MAXIMUM EXTENT PERMITTED BY LAW, PANHANDLE PRESSURE EQUIPMENT AND TRAILERS LLC SHALL NOT BE LIABLE FOR ANY INDIRECT, 
             INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR ANY LOSS OF PROFITS OR REVENUES, 
             WHETHER INCURRED DIRECTLY OR INDIRECTLY, OR ANY LOSS OF DATA, USE, GOODWILL, OR OTHER INTANGIBLE LOSSES.
           </p>
@@ -128,7 +128,7 @@ export default function TermsOfService() {
 
           <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">11. Indemnification</h2>
           <p className="text-gray-600 mb-6">
-            You agree to indemnify and hold harmless Scavenger AI LLC from any claims, damages, or expenses 
+            You agree to indemnify and hold harmless Panhandle Pressure Equipment and Trailers LLC from any claims, damages, or expenses 
             arising from your use of the service or violation of these Terms.
           </p>
 
@@ -154,10 +154,9 @@ export default function TermsOfService() {
           <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">15. Contact Information</h2>
           <div className="bg-gray-50 p-6 rounded-lg mb-8">
             <p className="text-gray-700">
-              <strong>Scavenger AI LLC</strong><br/>
-              Doing business as Contacted AI<br/>
-              Email: legal@contactedai.com<br/>
-              Phone: 1-800-CONTACT<br/>
+              <strong>Panhandle Pressure Equipment and Trailers LLC</strong><br/>
+              Email: washpanhandle@gmail.com<br/>
+              Phone: 850 363 4613<br/>
               Address: [Company Address]
             </p>
           </div>
@@ -172,7 +171,7 @@ export default function TermsOfService() {
           <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">17. Entire Agreement</h2>
           <p className="text-gray-600 mb-6">
             These Terms, together with our Privacy Policy, constitute the entire agreement between you and 
-            Scavenger AI LLC regarding the use of the service.
+            Panhandle Pressure Equipment and Trailers LLC regarding the use of the service.
           </p>
         </div>
       </div>

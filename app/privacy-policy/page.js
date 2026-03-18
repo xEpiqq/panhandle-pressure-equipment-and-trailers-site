@@ -14,7 +14,7 @@ export default function PrivacyPolicy() {
         <div className="prose prose-lg max-w-none">
           <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">1. Introduction</h2>
           <p className="text-gray-600 mb-6">
-            Scavenger AI LLC, doing business as Contacted AI ("we," "us," or "our"), is committed to protecting your privacy and personal data. 
+            Panhandle Pressure Equipment and Trailers LLC ("we," "us," or "our"), is committed to protecting your privacy and personal data. 
             This Privacy Policy explains how we collect, use, and protect your information in compliance with the General Data Protection 
             Regulation (GDPR) and other applicable privacy laws.
           </p>
@@ -108,13 +108,12 @@ export default function PrivacyPolicy() {
           <div className="bg-gray-50 p-6 rounded-lg mb-8">
             <p className="text-gray-700 mb-4">
               <strong>Data Controller:</strong><br/>
-              Scavenger AI LLC<br/>
-              Doing business as Contacted AI
+              Panhandle Pressure Equipment and Trailers LLC
             </p>
             <p className="text-gray-700 mb-4">
               <strong>Privacy Officer:</strong><br/>
-              Email: privacy@contactedai.com<br/>
-              Phone: 1-800-CONTACT
+              Email: washpanhandle@gmail.com<br/>
+              Phone: 850 363 4613
             </p>
             <p className="text-gray-700">
               <strong>EU Representative:</strong><br/>
@@ -133,7 +132,7 @@ export default function PrivacyPolicy() {
           <p className="text-gray-600 mb-6">
             If you believe we have not complied with this Privacy Policy or data protection laws, you have the 
             right to file a complaint with your local data protection authority or with us directly at 
-            privacy@contactedai.com.
+            washpanhandle@gmail.com.
           </p>
         </div>
       </div>

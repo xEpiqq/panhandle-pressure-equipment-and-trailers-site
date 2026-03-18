@@ -351,7 +351,7 @@ export default function Pricing() {
             Ready to Get Started?
           </h2>
           <p className="text-xl text-blue-100 mb-8 max-w-2xl mx-auto">
-            Try Contacted AI free for 14 days. No credit card required.
+            Try Panhandle Pressure Equipment and Trailers LLC free for 14 days. No credit card required.
           </p>
           <Link 
             href="/contact-us"

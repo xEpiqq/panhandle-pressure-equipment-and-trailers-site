@@ -14,12 +14,12 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Contacted AI - AI-Powered Customer Communication Solutions",
-  description: "Revolutionary AI-powered customer communication platform by Scavenger AI LLC. Transform your customer interactions with intelligent automation and seamless integration.",
-  keywords: "AI, customer communication, automation, SaaS, business solutions, contacted ai, scavenger ai",
-  authors: [{ name: "Scavenger AI LLC" }],
-  creator: "Scavenger AI LLC",
-  publisher: "Scavenger AI LLC",
+  title: "Panhandle Pressure Equipment and Trailers LLC",
+  description: "Panhandle Pressure Equipment and Trailers LLC.",
+  keywords: "panhandle pressure equipment and trailers llc, pressure equipment, trailers, panhandle",
+  authors: [{ name: "Panhandle Pressure Equipment and Trailers LLC" }],
+  creator: "Panhandle Pressure Equipment and Trailers LLC",
+  publisher: "Panhandle Pressure Equipment and Trailers LLC",
   robots: {
     index: true,
     follow: true,
